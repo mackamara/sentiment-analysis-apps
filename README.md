@@ -19,7 +19,11 @@ Google Play Scraper
 # Structure du Projet
 
 ├── data/                  # Datasets bruts et nettoyés
+
 ├── figures/               # Graphiques et visualisations (EDA)
+
 ├── notebooks/             # Code source : Scraping, Preprocessing et Entraînement
+
 ├── README.md              # Description
+
 └── Rapport_Projet.pdf     # Rapport complet et méthodologie détaillée
