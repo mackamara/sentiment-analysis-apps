@@ -30,11 +30,7 @@ Google Play Scraper
 
 # 👥 Intervenants du projet
 
-### Équipe de développement
-
 - **Abdou SALOU ABDOU**
-- 
 - **Kamara MACIRÉ**
-- 
 - **Nouridine SAWADOGO** 
 
